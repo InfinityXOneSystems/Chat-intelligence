@@ -1,0 +1,1 @@
+﻿python -c "from doc_sync.sync_orchestrator import run_local_doc_sync; run_local_doc_sync()"
