@@ -1,1 +1,2 @@
-﻿def build_manifest(): return True
+﻿def build_manifest():
+    return True

@@ -1,1 +1,2 @@
-﻿def detect_changes(): return []
+﻿def detect_changes():
+    return []

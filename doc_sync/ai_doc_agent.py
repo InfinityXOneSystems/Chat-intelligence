@@ -1,1 +1,2 @@
-﻿def generate_doc_update(ctx): return ''
+﻿def generate_doc_update(ctx):
+    return ""
